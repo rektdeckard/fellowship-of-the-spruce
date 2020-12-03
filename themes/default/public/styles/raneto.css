@@ -147,7 +147,7 @@ margin: 25px 0 10px 0;
 }
 
 .content blockquote {
-  background-color: #FFFDDC;
+  background-color: #fff8da;
   padding: 16px;
   font-family: monospace;
 }
@@ -171,17 +171,17 @@ margin: 25px 0 10px 0;
 }
 
 .content td > img {
-  max-height: 300px;
+  max-height: 200px;
   margin: inherit;
 }
 
 .content code {
   color: #555;
-  background-color: #FFFDDC;
+  background-color: #fff8da;
 }
 
 .content pre {
-  background: #FFFDDC;
+  background: #fff8da;
   border: 0;
 }
 
@@ -197,6 +197,10 @@ margin: 25px 0 10px 0;
   margin-top: 50px;
   font-size: 85%;
   color: #999;
+}
+
+.content a {
+  color:#17A2B8;
 }
 
 .content .page-meta a {
@@ -216,7 +220,7 @@ margin: 25px 0 10px 0;
 }
 
 .page-excerpt .search-query {
-  background: #FFFDDC;
+  background:#fff8da;
 }
 
 .error {
