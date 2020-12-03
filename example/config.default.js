@@ -10,8 +10,8 @@ var config = {
   site_title: 'Fellowship of the Spruce',
 
   // The base URL of your site (can use %base_url% in Markdown files)
-  // base_url: '',
-  base_url: 'https://fellowship-of-the-spruce.herokuapp.com/',
+  base_url: '',
+  // base_url: 'https://fellowship-of-the-spruce.herokuapp.com/',
 
   // Used for the "Get in touch" page footer link
   support_email: 'friedtm@gmail.com',
