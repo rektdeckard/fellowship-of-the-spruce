@@ -1,7 +1,7 @@
 
 .header {
   color: #CCC;
-  background: #2C323D;
+  background: #055972;
 }
 
 .header .container-fluid {
@@ -146,6 +146,16 @@ margin: 25px 0 10px 0;
   margin-bottom: 1em;
 }
 
+.content blockquote {
+  background-color: #FFFDDC;
+  padding: 16px;
+  font-family: monospace;
+}
+
+.content blockquote > p:last-child {
+  margin-bottom: 0;
+}
+
 .content img {
   display: block;
   height: auto;
@@ -158,6 +168,11 @@ margin: 25px 0 10px 0;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+}
+
+.content td > img {
+  max-height: 300px;
+  margin: inherit;
 }
 
 .content code {

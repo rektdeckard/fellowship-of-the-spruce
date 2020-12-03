@@ -1,14 +1,35 @@
 {
-  "name": "raneto-example",
-  "version": "1.0.0",
-  "description": "",
+  "name": "fellowship-of-the-spruce",
+  "version": "0.1.0",
+  "description": "Knowledgebase for the Fellowship of the Spruce D&D Campaign",
+  "author": "Tobias Fried <friedtm@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "fellowship of the spruce",
+    "dungenons and dragons",
+    "dnd",
+    "d&d",
+    "knowledgebase",
+    "markdown",
+    "static",
+    "site",
+    "generator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rektdeckard/fellowship-of-the-spruce.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.githubusercontent.com/rektdeckard/fellowship-of-the-spruce/master/LICENSE"
+    }
+  ],
   "main": "config.default.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Ryan Lelek <ryanlelek@gmail.com>",
-  "license": "ISC",
   "dependencies": {
     "raneto": "0.16.2",
     "debug": "4.1.1"
