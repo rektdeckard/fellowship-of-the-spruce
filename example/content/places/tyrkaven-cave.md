@@ -1,3 +1,7 @@
+```
+This article is a stub and needs more information.
+```
+
 <table>
   <thead>
   <tr>
@@ -7,20 +11,20 @@
   <tbody>
     <tr>
       <td><strong>Type</strong></td>
-        <td colspan="2">Town</td>
+        <td colspan="2">Dungeon</td>
         <td rowspan="7"><img src="/images/places/map-trifold-duotone.svg"></td>
     </tr>
     <tr>
       <td><strong>Region</strong></td>
-      <td colspan="2">
-        <a href="/places/mirabar">Mirabar</a>, 
-        <a href="/places/the-sword-coast">The Sword Coast</a>
-      </td>
+        <td colspan="2">
+          <a href="/places/rivercrest">Rivercrest</a>, 
+          <a href="/places/the-sword-coast">The Sword Coast</a>
+        </td>
     </tr>
     <tr>
       <td rowspan="2"><strong>Inhabitants</strong></td>
       <td>Races:</td>
-      <td>Humans</td>
+      <td>Hobgoblins</td>
     </tr>
     <tr>
       <td>Factions:</td>
@@ -28,20 +32,13 @@
     </tr>
     <tr>
       <td><strong>Commerce</strong></td>
-      <td colspan="2">Wine</td>
+      <td colspan="2">N/A</td>
     </tr>
     <tr>
       <td><strong>Status</strong></td>
-      <td colspan="2">Friendly</td>
+      <td colspan="2">Cleared</td>
     </tr>
   </tbody>
 </table>
 
 ---
-
-## Background
-
-## Appearances
-
-- [October 15, 2020](%base_url%/sessions/2020-10-15)
-- [October 29, 2020](%base_url%/sessions/2020-10-29)

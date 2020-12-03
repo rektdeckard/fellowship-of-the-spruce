@@ -1,39 +1,41 @@
+```
+This article is a stub and needs more information.
+```
+
 <table>
   <thead>
   <tr>
-  <th align="left" colspan="3">Details</th>
+      <th colspan="4">Details</th>
   </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="left"><strong>Appearance</strong></td>
-      <td align="left" colspan="2"><img src="%image_url%/players//gorth-clamly.jpeg"></td>
+      <td><strong>Race</strong></td>
+        <td colspan="2">Lightfoot Halfling</td>
+        <td rowspan="7"><img src="/images/players/gorth-clamly.jpeg"></td>
     </tr>
     <tr>
-      <td align="left"><strong>Race</strong></td>
-      <td align="left" colspan="2">Lightfoot Halfling</td>
+      <td><strong>Class</strong></td>
+      <td colspan="2">Bard III</td>
     </tr>
     <tr>
-      <td align="left"><strong>Class</strong></td>
-      <td align="left" colspan="2">Bard III</td>
+      <td rowspan="3"><strong>Characteristics</strong></td>
+      <td>Alignment:</td>
+      <td>Unknown</td>
     </tr>
     <tr>
-      <td align="left"><strong>Characteristics</strong></td>
-      <td align="left">Alignment:</td>
-      <td align="left">Unknown</td>
+      <td>Background:</td>
+      <td>Unknown</td>
     </tr>
     <tr>
-      <td align="left"></td>
-      <td align="left">Background:</td>
-      <td align="left">Unknown</td>
+      <td>Other:</td>
+      <td>Unknown</td>
     </tr>
     <tr>
-      <td align="left"><strong>Player</strong></td>
-      <td align="left" colspan="2">Danl Goodman</td>
+      <td><strong>Player</strong></td>
+      <td colspan="2">Danl Goodman</td>
     </tr>
   </tbody>
 </table>
 
-### History
-
-TKTKTK
+---

@@ -1,45 +1,42 @@
 <table>
   <thead>
-  <tr>
-  <th align="left" colspan="3">Details</th>
-  </tr>
+    <tr>
+      <th colspan="4">Details</th>
+    </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="left"><strong>Appearance</strong></td>
-      <td align="left" colspan="2"><img src="/images/players/pavel-kilkaelan.jpeg"></td>
+      <td><strong>Race</strong></td>
+      <td colspan="2">Half-Elf</td>
+      <td rowspan="7"><img src="/images/players/pavel-kilkaelan.jpeg"></td>
     </tr>
     <tr>
-      <td align="left"><strong>Race</strong></td>
-      <td align="left" colspan="2">Half-Elf</td>
+      <td><strong>Class</strong></td>
+      <td colspan="2">Warlock III</td>
     </tr>
     <tr>
-      <td align="left"><strong>Class</strong></td>
-      <td align="left" colspan="2">Warlock III</td>
+      <td rowspan="3"><strong>Characteristics</strong></td>
+      <td>Alignment:</td>
+      <td>Chaotic Neutral</td>
     </tr>
     <tr>
-      <td align="left"><strong>Characteristics</strong></td>
-      <td align="left">Alignment:</td>
-      <td align="left">Chaotic Neutral</td>
+      <td>Faith:</td>
+      <td>Church of Sebek</td>
     </tr>
     <tr>
-      <td align="left"></td>
-      <td align="left">Faith:</td>
-      <td align="left">Church of Sebek</td>
+      <td>Background:</td>
+      <td>Outlander</td>
     </tr>
     <tr>
-      <td align="left"></td>
-      <td align="left">Background:</td>
-      <td align="left">Outlander</td>
-    </tr>
-    <tr>
-      <td align="left"><strong>Player</strong></td>
-      <td align="left" colspan="2">Tobias Fried</td>
+      <td><strong>Player</strong></td>
+      <td colspan="2">Tobias Fried</td>
     </tr>
   </tbody>
 </table>
 
-### History
+---
+
+## Background
 
 Pavel lived most of his life in the Tsardom of Austrasea, on the world of Oerth. He was a peasant hunter and trapper, living humbly on what he caught, a solitary life with no intention of settling down or building a family. On his 24th birthday, while out in the nearby woods owned by the local lord, he was captured and tried for the crime of poaching. Upon his conviction, he was given the choice of death by hanging, or 10 years' service in the Expeditionary Army (widely considered to be the worse decision of the two).
 

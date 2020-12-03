@@ -1,5 +1,6 @@
 Sebek was a jealous, vain, and evil member of the Mulhorandi pantheon. Known as Sebethant in Thay and as Sebakar in Unther and Chessenta, he delighted in devouring humans.
 
+<!--
 <table >
   <thead>
     <tr>
@@ -44,6 +45,49 @@ Sebek was a jealous, vain, and evil member of the Mulhorandi pantheon. Known as 
     </tr>
   </tbody>
 </table>
+-->
+
+<table>
+  <thead>
+  <tr>
+      <th colspan="4">Details</th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Ancestry</strong></td>
+        <td colspan="2">Archfey</td>
+        <td rowspan="7"><img src="/images/lore/gods/sobek.jpg "></td>
+    </tr>
+    <tr>
+      <td><strong>Titles</strong></td>
+      <td colspan="2">Lord of Crocodiles, The Smiling Death</td>
+    </tr>
+    <tr>
+      <td><strong>Aspects & Aliases</strong></td>
+      <td colspan="2">Sebethant, Sebakar, Sobek</td>
+    </tr>
+    <tr>
+      <td><strong>Pantheon</strong></td>
+      <td colspan="2">Mulhorandi pantheon</td>
+    </tr>
+    <tr>
+      <td rowspan="3"><strong>Characteristics</strong></td>
+      <td>Alignment:</td>
+      <td>Lawful Evil</td>
+    </tr>
+    <tr>
+      <td>Symbol:</td>
+      <td>Horned crocodile head with pulmage</td>
+    </tr>
+    <tr>
+      <td>Domains:</td>
+      <td>Nature, Tempest</td>
+    </tr>
+  </tbody>
+</table>
+
+---
 
 ### History
 
