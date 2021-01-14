@@ -23,7 +23,7 @@
     </tr>
     <tr>
       <td>Factions:</td>
-      <td>Unknown</td>
+      <td><a href="/lore/factions/the-axe-of-mirabar">The Axe of Mirabar</a></td>
     </tr>
     <tr>
       <td><strong>Commerce</strong></td>
@@ -40,7 +40,7 @@
 
 ## Background
 
-The city of Mirabar 
+The city of Mirabar is the last major city south of the Sword Mountains.
 
 ## Points of Interest
 
@@ -52,3 +52,5 @@ The city of Mirabar
 ## Appearances
 
 - [October 15, 2020](%base_url%/sessions/2020-10-15)
+- [December 3, 2020](%base_url%/sessions/2020-12-3)
+- [December 10, 2020](%base_url%/sessions/2020-12-10)
